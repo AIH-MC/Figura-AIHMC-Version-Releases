@@ -1,5 +1,4 @@
-# Figura-AIHMC-Version-Releases
-
+# Figura AIH-MC Version
 **1.20.1 ~ 1.21.11 源码：**[https://github.com/AIH-MC/Figura](https://github.com/AIH-MC/Figura)
 
 **26.1 ~ 26.1.2 源码：** [https://github.com/AIH-MC/Figura-MC-26.x](https://github.com/AIH-MC/Figura-MC-26.x)
